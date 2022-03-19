@@ -16,7 +16,7 @@ I used C# and built in Unity and imported Steam VR assets for the Hands
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * More game modes
 * Collision system with Quest 2 boundaires (so you don't bump into things)
 * Custome assets and models
