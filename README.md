@@ -10,7 +10,7 @@ I used C# and built in Unity and imported Steam VR assets for the Hands
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Unity VR](https://unity.com/unity/features/vr)
 * [VR Unity Tutorial](https://www.youtube.com/watch?v=gGYtahQjmWQ&t=1s&ab_channel=Valem)
 
